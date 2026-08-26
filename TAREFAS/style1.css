@@ -1,0 +1,45 @@
+* {
+    margin: 2px;
+    padding: 5px;
+    box-sizing: border-box;
+}
+
+.cabecalho {
+    background: #2563eb;
+    text-align: center;
+    color: #fff;
+}
+
+body {
+    font-family: Arial, Helvetica, sans-serif;
+    color: #1f2937;
+    background-color: #f8fafc;
+    line-height: 1.0;
+    text-align: left;
+
+}
+
+.Novas {
+    margin: 2px;
+    padding: 5px;
+    box-sizing: border-box;
+}
+
+.Sobre {
+    margin: 2px;
+    padding-bottom: 5px;
+    box-sizing: border-box;
+}
+
+.footer {
+    padding: 30px 05;
+
+    color: #64748b;
+    background-color: #ffffff;
+
+    border-top: 1px solid #e5e7eb;
+
+    text-align: center;
+
+    font-size: 0.9rem;
+}
